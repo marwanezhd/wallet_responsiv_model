@@ -1,0 +1,152 @@
+body {
+    background: linear-gradient(180deg, #F8F8FB 0%, #FFFFFF 50%);
+    padding-left: 5vw;
+    padding-right: 5vw;
+}
+
+#wrapperTop {
+    margin-top: 5vh;
+}
+
+#logo {
+    width: 18vh;
+}
+
+.block_2 {
+    margin-top: 10vh;
+}
+
+.block_2>p {
+    font-family: 'Nunito';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 2.8vh;
+    color: #544A62;
+}
+
+._title_1 {
+    font-family: 'Nunito';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 4vw;
+    color: #330080;
+    text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+.block_3 {
+    margin-top: 10vh;
+}
+
+.block_3>div>h1 {
+    font-family: 'Nunito';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 2.5vw;
+    color: #330080;
+}
+
+#_choose {
+    font-family: 'Nunito';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 2.8vh;
+    color: #544A62;
+}
+
+#_ssi {
+    margin-top: 4vh;
+    font-family: 'Nunito';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 2.8vh;
+    color: #B0A7BC;
+}
+
+.block_4 {
+    margin-top: 27vh;
+}
+
+._list {
+    list-style: none;
+    border-style: solid;
+    border-width: 0px 0px 1px 0px;
+    border-color: #bebcbc;
+}
+
+._list>li {
+    display: inline-block
+}
+
+#li_tezos {
+    font-family: 'Nunito';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 3vh;
+    color: #330080;
+}
+
+#li_eth {
+    margin-left: 2vw;
+    font-family: 'Nunito';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 3vh;
+    color: #717172;
+}
+
+.popular_block {
+    margin-top: 15vh;
+}
+
+#_popular {
+    font-family: 'Nunito';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 2.7vh;
+    line-height: 161.7%;
+    color: #544A62;
+}
+
+.ul_pop>li {
+    padding-top: 2vh;
+    margin-top: 2vh;
+    padding-bottom: 1.5vh;
+    background: #FFFFFF;
+    border: 1px solid #EDECF2;
+    border-radius: 16px;
+}
+
+.ul_pop>li:hover {
+    padding-top: 2vh;
+    margin-top: 2vh;
+    padding-bottom: 1.5vh;
+    background: #EDECF2;
+    border: 1px solid #EDECF2;
+    border-radius: 16px;
+}
+
+#beaconlogo,
+#templelogo {
+    margin-bottom: -0.5vh;
+    width: 3.5vh;
+    margin-left: 2vh;
+}
+
+.vector {
+    width: 1.5vh;
+    margin-right: 2vh;
+}
+
+.li_pop_txt {
+    margin-left: 3vh;
+    font-family: 'Nunito';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 3vh;
+    color: #000000;
+}
+
+.block_5 {
+    margin-top: 20vh;
+    margin-bottom: 30vh;
+}
